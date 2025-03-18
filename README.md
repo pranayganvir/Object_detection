@@ -71,10 +71,11 @@ This project is open-source and available under the MIT License.
 
 ![Result !](https://github.com/pranayganvir/blood-cell-detection-BCCF/blob/main/Screenshot/Screenshot%202025-03-18%20151455.png)
 
-## Downloaded Image
-
-![App Screenshot](https://github.com/pranayganvir/blood-cell-detection-BCCF/blob/main/Screenshot/detected%20(3).jpg)
 
 ## Count Table
 
 ![Count Table](https://github.com/pranayganvir/blood-cell-detection-BCCF/blob/main/Screenshot/Screenshot%202025-03-18%20151517.png)
+
+## Downloaded Image
+
+![App Screenshot](https://github.com/pranayganvir/blood-cell-detection-BCCF/blob/main/Screenshot/detected%20(3).jpg)
