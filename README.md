@@ -50,7 +50,7 @@ streamlit run app.py
 ## 📦 Model Details
 The application uses a YOLO model (`best.pt`) trained on the **YOLO v10p** framework with the **BCCD dataset**. Ensure the model file is available in the project directory.
 
-- 🔗 **Dataset:** [BCCD Dataset](https://public.roboflow.com/object-detection/bccd)
+- 🔗 **Dataset:** [BCCD Dataset](https://github.com/Shenggan/BCCD_Dataset)
 - 📝 **Annotations Converted:** Annotations were converted into the TXT format using [Roboflow](https://roboflow.com/) for compatibility with YOLO.
 
 ## 🙌 Acknowledgments
