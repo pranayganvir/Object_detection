@@ -16,8 +16,8 @@ To run the app locally, follow these steps:
 
 ### 1️⃣ Clone the Repository
 ```sh
-https://github.com/pranayganvir/blood-cell-detection-BCCF.git
-cd blood-cell-detection-BCCF
+https://github.com/pranayganvir/blood-cell-detection-BCCD.git
+cd blood-cell-detection-BCCD
 ```
 
 ### 2️⃣ Install Dependencies
